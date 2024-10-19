@@ -8,7 +8,7 @@ Analyze the historical variations in gold prices in India.
 Understand the significance of different economic factors, such as inflation and GDP, on gold price fluctuations.
 Apply appropriate forecasting techniques to predict future gold prices and compare their efficiency.
 
-Data Collection
+##Data Collection
 
 The dataset consists of historical gold prices along with other relevant economic indicators like inflation and GDP. The data is used to build models that explain the relationship between these factors and the variations in gold prices.
 Analysis Methods
@@ -26,7 +26,7 @@ Artificial Neural Network (ANN) Model
 To explore non-linear relationships between the variables, an Artificial Neural Network (ANN) is trained using key factors like year, inflation, and GDP. The model helps capture complex interactions that are not easily explained by linear models.
 Findings
 
-    Historical Variations: The analysis shows a steady increase in gold prices over the years.
+ Historical Variations: The analysis shows a steady increase in gold prices over the years.
     Impact of Economic Factors: Multiple linear regression highlights that inflation and GDP significantly affect gold prices in addition to time.
     Forecasting: The ARIMA model indicates a continued upward trend in gold prices over the next five years, with a relatively accurate forecast.
     Comparison of Techniques: Among the different models, ARIMA provides efficient forecasting for time series data, while the ANN model helps capture non-linear relationships between gold prices and influencing factors.
