@@ -8,7 +8,7 @@ Analyze the historical variations in gold prices in India.
 Understand the significance of different economic factors, such as inflation and GDP, on gold price fluctuations.
 Apply appropriate forecasting techniques to predict future gold prices and compare their efficiency.
 
-##Data Collection
+## Data Collection
 
 The dataset consists of historical gold prices along with other relevant economic indicators like inflation and GDP. The data is used to build models that explain the relationship between these factors and the variations in gold prices.
 Analysis Methods
