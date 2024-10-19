@@ -4,9 +4,9 @@ Gold plays a significant role in India's economy, and its price is influenced by
 
 This project aims to:
 
-    Analyze the historical variations in gold prices in India.
-    Understand the significance of different economic factors, such as inflation and GDP, on gold price fluctuations.
-    Apply appropriate forecasting techniques to predict future gold prices and compare their efficiency.
+Analyze the historical variations in gold prices in India.
+Understand the significance of different economic factors, such as inflation and GDP, on gold price fluctuations.
+Apply appropriate forecasting techniques to predict future gold prices and compare their efficiency.
 
 Data Collection
 
